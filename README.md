@@ -1,9 +1,9 @@
-### Prazer a todos, bem-vindos ao meu perfil/portifólio
+<h2>Prazer a todos, bem-vindos ao meu perfil/portifólio</h2>
 
 - Atualmente sou Dev Web Junior focado em Laravel e Angular
 - Formado em Análise de Sistemas pela Unifai
 - Cursando Ciência de Dados pela FATEC Adamantina
-- Atualmente estudando ASP.NET e React por conta própria
+- Estou estudando ASP.NET e React por conta própria
 
 <div align="center">
   <a href="https://github.com/GuilhermeChuman">
