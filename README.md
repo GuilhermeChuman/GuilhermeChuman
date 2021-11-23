@@ -3,7 +3,7 @@
 - Atualmente sou Dev Web Junior focado em Laravel e Angular
 - Formado em Análise de Sistemas pela Unifai
 - Cursando Ciência de Dados pela FATEC Adamantina
-- Estou estudando ASP.NET e React por conta própria
+- Estou estudando ASP.NET(C#) e React(Js) por conta própria
 
 <div align="center">
   <a href="https://github.com/GuilhermeChuman">
