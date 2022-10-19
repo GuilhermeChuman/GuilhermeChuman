@@ -1,7 +1,6 @@
 <h2>Prazer a todos, bem-vindos ao meu perfil/portifólio</h2>
 
-- Atualmente sou Analista de Sistemas 
-- Trabalhei mais de um ano como desenvolvedor focado em Laravel e Angular
+- Trabalho como desenvolvedor focado em Laravel e Angular
 - Formado em Análise de Sistemas pela Unifai
 - Cursando Ciência de Dados pela FATEC Adamantina
 
